@@ -1,0 +1,13 @@
+# Local material and private preview configuration.
+/cook/
+/cook-archive/
+/work/
+/outputs/
+/.openai/
+/.env
+/.env.*
+*.log
+*.zip
+*.tar.gz
+__pycache__/
+# dist/ is the hand-authored application, not disposable build output.
